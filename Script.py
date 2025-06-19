@@ -215,11 +215,11 @@ Nᴀᴍᴇ - {}
     SHORTLINK_INFO2 = """<b>
 ❗<u>ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ</u>❗
 
-›› ꜱᴛᴇᴘ 4 : ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴜꜱɪɴɢ ᴀɴʏ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴛʜᴇɴ ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ꜰɪʀꜱᴛ ᴏɴ instantearn.in (ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴜꜱᴇ ᴏᴛʜᴇʀ ʟɪɴᴋ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ).
+›› ꜱᴛᴇᴘ 4 : ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴜꜱɪɴɢ ᴀɴʏ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴛʜᴇɴ ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ꜰɪʀꜱᴛ ᴏɴ fifolink.com (ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴜꜱᴇ ᴏᴛʜᴇʀ ʟɪɴᴋ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ).
 
 ›› ꜱᴛᴇᴘ 5 : ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ꜰʀᴏᴍ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴛʜᴇɴ, ꜱɪᴍᴘʟʏ ꜱᴇᴛ ʏᴏᴜʀ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴀᴘɪ ᴜꜱɪɴɢ ᴛʜᴇ /shortlink ᴄᴏᴍᴍᴀɴᴅ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink instantearn.in 1502a197c85d59929d50f1cba1d5e6f967d1e962</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink fifolink.com 1502a197c85d59929d50f1cba1d5e6f967d1e962</code>
 
 <b>›› ꜱᴛᴇᴘ 6 : ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamcinezone">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/dreamcinezone>[Dreamcine_Botz]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+Esc1TloKRYRmYTEx">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/hd99flix>[HD99Flix]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -313,7 +313,7 @@ Requested by : {message.from_user.mention}</b>"""
 
 🎁 <u>ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs</u> :
 
-⚜️ ɴᴏ ɴᴇᴇᴅ ᴛᴏ Vᴇʀɪғʏ
+⚜️ ɴᴏ ɴᴇᴇᴅ ᴛᴏ watch Ads
 ⚜️ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇꜱ 
 ⚜️ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  
 ⚜️ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs      
@@ -329,7 +329,7 @@ Requested by : {message.from_user.mention}</b>"""
     
 🎁 <u>ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs</u> :
 
-⚜️ ɴᴏ ɴᴇᴇᴅ ᴛᴏ Vᴇʀɪғʏ
+⚜️ ɴᴏ ɴᴇᴇᴅ ᴛᴏ watch Ads
 ⚜️ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇꜱ  
 ⚜️ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  
 ⚜️ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs      
@@ -346,7 +346,7 @@ Requested by : {message.from_user.mention}</b>"""
     
 🎁 <u>ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs</u> :
 
-🩸 ɴᴏ ɴᴇᴇᴅ ᴛᴏ Vᴇʀɪғʏ
+🩸 ɴᴏ ɴᴇᴇᴅ ᴛᴏ watch Ads
 🩸 ᴅɪʀᴇᴄᴛ ꜰɪʟᴇꜱ   
 🩸 ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ 
 🩸 ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs      
@@ -366,7 +366,7 @@ Requested by : {message.from_user.mention}</b>"""
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/dreamcinezone'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/hdsxsupportteam_bot'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -393,7 +393,7 @@ Requested by : {message.from_user.mention}</b>"""
     
 🥇 <u>ɢᴏʟᴅ ᴘʟᴀɴ</u>
 ⏰ 30 ᴅᴀʏꜱ 
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 40₹
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 35₹
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -422,7 +422,7 @@ Requested by : {message.from_user.mention}</b>"""
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/dreamcinezone'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/hdsxsupportteam_bot'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -453,7 +453,7 @@ Requested by : {message.from_user.mention}</b>"""
 
 ⚜️ 20 𝑹𝒖𝒑𝒂𝒚𝒆 👉 15 𝒅𝒂𝒚𝒔 
 
-⚜️ 40 𝑹𝒖𝒑𝒂𝒚𝒆 👉 30 𝒅𝒂𝒚𝒔 
+⚜️ 35 𝑹𝒖𝒑𝒂𝒚𝒆 👉 30 𝒅𝒂𝒚𝒔 
 
 ⚜️ 55 𝑹𝒖𝒑𝒂𝒚𝒆 👉 45 𝒅𝒂𝒚𝒔 
 
@@ -474,7 +474,7 @@ Requested by : {message.from_user.mention}</b>"""
 
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrRaazz/Dreamcinezone.git>dreamcinezone_Botz</a>\n """
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :github.com\n """
 
     EXTRAF_TXT =""" <b> ʜᴇʀᴇ ɪꜱ ᴍʏ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ </b>"""
 
