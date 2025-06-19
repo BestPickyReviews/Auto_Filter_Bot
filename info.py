@@ -84,19 +84,19 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/dreamcinezone')  # Ho
 # ============================
 # Link Shortener Configuration
 # ============================
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'd73e70a35dc3877fa14afbf51fa8ec312c94780c')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/dreamcinezone')  # Tutorial video link for opening shortlink website
-IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'fifolink.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c003607053d746ca694af908af158f1cfbd51206')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_download_direct_files/10')  # Tutorial video link for opening shortlink website
+IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/dreamcinezone')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/dreamcinezone')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/dreamcinezone')
-DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/dreamcinezone')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/hd99flixgroup')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hd99flix')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/hd99flix')
+DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/hdsxmedia')
 OWNERID = int(os.environ.get('OWNERID', '1234567890'))  # Replace with the actual admin ID
 
 # ============================
