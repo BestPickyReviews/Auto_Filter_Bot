@@ -95,7 +95,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/hd99flixgroup')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hd99flix')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/hd99flix')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/hd99flixadmincontact_Bot')
 DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/hdsxmedia')
 OWNERID = int(os.environ.get('OWNERID', '1234567890'))  # Replace with the actual admin ID
 
