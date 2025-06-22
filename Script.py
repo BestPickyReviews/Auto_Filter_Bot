@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+Esc1TloKRYRmYTEx">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/hd99flix>[HD99Flix]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+Esc1TloKRYRmYTEx">💫 {file_name}</a></b>\n\n<b>☝️ ᴘʟᴇᴀsᴇ ɪs ғɪʟᴇ ᴋᴏ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇ ᴍᴇ ғᴏʀᴡᴀʀᴅ ᴋʀ ʟᴏ ᴛʙ ᴅᴏᴡɴʟᴏᴀᴅ ᴋʀᴏ. ᴄᴏᴘʏʀɪɢʜᴛ ᴋɪ ᴡᴊʜ sᴇ 𝟷𝟻 ᴍɪɴᴜᴛᴇ ᴍᴇ ᴅᴇʟᴇᴛᴇ ʜᴏ ᴊᴀʏᴇɢᴀ. ⚠️</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
