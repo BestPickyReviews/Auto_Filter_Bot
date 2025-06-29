@@ -433,7 +433,7 @@ Requested by : {message.from_user.mention}</b>"""
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a>
+💵 ᴜᴘɪ ɪᴅ - <code>{}</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -461,7 +461,7 @@ Requested by : {message.from_user.mention}</b>"""
 
 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑷𝒂𝒚𝒎𝒆𝒏𝒕 𝑴𝒆𝒕𝒉𝒐𝒅.....
 
-𝑼𝑷𝑰 𝑰𝑫 👉 <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a>
+𝑼𝑷𝑰 𝑰𝑫 👉 <code>{}</code>
 
 𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a> 
 
