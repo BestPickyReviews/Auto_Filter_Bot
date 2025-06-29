@@ -463,7 +463,7 @@ Requested by : {message.from_user.mention}</b>"""
 
 𝑼𝑷𝑰 𝑰𝑫 👉 <code>{}</code>
 
-𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a> 
+𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a> 
 
 𝑷𝒂𝒚 𝑨𝒎𝒐𝒖𝒏𝒕 𝑨𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑷𝒍𝒂𝒏 & 𝑬𝒏𝒋𝒐𝒚 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑴𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑
 
