@@ -191,7 +191,7 @@ Nᴀᴍᴇ - {}
 
 <b>🎉 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑫𝒐𝒏𝒂𝒕𝒆 𝑴𝒆𝒕𝒉𝒐𝒅 👇</b>
 
-➢ QR Cᴏᴅᴇ : <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a>
+➢ QR Cᴏᴅᴇ : <a href='{}'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
 
 ➢ Uᴘɪ Iᴅ : <code>{}</code>
 
@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+Esc1TloKRYRmYTEx">💫 {file_name}</a></b>\n\n<b>☝️ ᴘʟᴇᴀsᴇ ɪs ғɪʟᴇ ᴋᴏ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇ ᴍᴇ ғᴏʀᴡᴀʀᴅ ᴋʀ ʟᴏ ᴛʙ ᴅᴏᴡɴʟᴏᴀᴅ ᴋʀᴏ. ᴄᴏᴘʏʀɪɢʜᴛ ᴋɪ ᴡᴊʜ sᴇ 𝟷𝟻 ᴍɪɴᴜᴛᴇ ᴍᴇ ᴅᴇʟᴇᴛᴇ ʜᴏ ᴊᴀʏᴇɢᴀ. ⚠️</b>"""
+    CAPTION = """<b><a href="https://t.me/+Esc1TloKRYRmYTEx">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/hd99flix>[HD99Flix]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -441,7 +441,7 @@ Requested by : {message.from_user.mention}</b>"""
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -463,7 +463,7 @@ Requested by : {message.from_user.mention}</b>"""
 
 𝑼𝑷𝑰 𝑰𝑫 👉 <code>{}</code>
 
-𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='{https://t.me/hd99flixadmincontact_Bot}'>CONTACT ADMIN</a> 
+𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a> 
 
 𝑷𝒂𝒚 𝑨𝒎𝒐𝒖𝒏𝒕 𝑨𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑷𝒍𝒂𝒏 & 𝑬𝒏𝒋𝒐𝒚 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑴𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑
 
