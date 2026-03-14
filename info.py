@@ -79,7 +79,7 @@ CAPTION_LANGUAGES = ["Bhojpuri", "Hindi", "Bengali", "Tamil", "English", "Bangla
 VERIFY = bool(environ.get('VERIFY', False))  # Verification On (True) / Off (False)
 DREAMCINEZONE_VERIFY_EXPIRE = int(environ.get('DREAMCINEZONE_VERIFY_EXPIRE', 1))  # Add time in hours
 DREAMCINEZONE_VERIFIED_LOG = int(environ.get('DREAMCINEZONE_VERIFIED_LOG', '-1002017490016'))  # Log channel id (make sure bot is admin)
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/dreamcinezone')  # How to open tutorial link for verification
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/how_to_open_fifolink/3')  # How to open tutorial link for verification
 
 # ============================
 # Link Shortener Configuration
