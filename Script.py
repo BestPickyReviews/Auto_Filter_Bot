@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+Esc1TloKRYRmYTEx">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/hd99flix>[HD99Flix]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/hd99flix">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/hd99flix>[HD99Flix]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
