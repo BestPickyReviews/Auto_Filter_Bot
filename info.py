@@ -87,7 +87,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/dreamcinezone')  # Ho
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'fifolink.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'c003607053d746ca694af908af158f1cfbd51206')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_download_direct_files/10')  # Tutorial video link for opening shortlink website
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_open_fifolink/3')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 # ============================
